@@ -2,11 +2,11 @@
 
 
 # Table of contents
-[**1. Right tool for the job**](https://github.com/huubao2309/clean_code/tree/main/2.Principles%20for%20Cleanliness#1-right-tool-for-the-job)
+[**1. Right tool for the job**](https://github.com/bao-nguyen3-ts/clean_code/tree/main/2.Principles%20for%20Cleanliness#1-right-tool-for-the-job)
 
-[**2. High signal to noise ratio**](https://github.com/huubao2309/clean_code/tree/main/2.Principles%20for%20Cleanliness#2-high-signal-to-noise-ratio)
+[**2. High signal to noise ratio**](https://github.com/bao-nguyen3-ts/clean_code/tree/main/2.Principles%20for%20Cleanliness#2-high-signal-to-noise-ratio)
 
-[**3. Self-documenting Code**](https://github.com/huubao2309/clean_code/tree/main/2.Principles%20for%20Cleanliness#3-self-documenting-code)
+[**3. Self-documenting Code**](https://github.com/bao-nguyen3-ts/clean_code/tree/main/2.Principles%20for%20Cleanliness#3-self-documenting-code)
 
 
 ## Three Principles for Clean Code

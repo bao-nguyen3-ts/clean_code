@@ -2,19 +2,19 @@
 
 
 # Table of contents
-[**1. Introduce**](https://github.com/huubao2309/clean_code/tree/main/6.Classes#1-introduce)
+[**1. Introduce**](https://github.com/bao-nguyen3-ts/clean_code/tree/main/6.Classes#1-introduce)
 
-[**2. When to Create a class**](https://github.com/huubao2309/clean_code/tree/main/6.Classes#2-when-to-create-a-class)
+[**2. When to Create a class**](https://github.com/bao-nguyen3-ts/clean_code/tree/main/6.Classes#2-when-to-create-a-class)
 
-[**3. Cohesion**](https://github.com/huubao2309/clean_code/tree/main/6.Classes#3-cohesion)
+[**3. Cohesion**](https://github.com/bao-nguyen3-ts/clean_code/tree/main/6.Classes#3-cohesion)
 
-[**4. When is A Class too Small?**](https://github.com/huubao2309/clean_code/tree/main/6.Classes#4-when-is-a-class-too-small)
+[**4. When is A Class too Small?**](https://github.com/bao-nguyen3-ts/clean_code/tree/main/6.Classes#4-when-is-a-class-too-small)
 
-[**5. Primitive Obsession**](https://github.com/huubao2309/clean_code/tree/main/6.Classes#5-primitive-obsession)
+[**5. Primitive Obsession**](https://github.com/bao-nguyen3-ts/clean_code/tree/main/6.Classes#5-primitive-obsession)
 
-[**6. Principle of Proximity**](https://github.com/huubao2309/clean_code/tree/main/6.Classes#6-principle-of-proximity)
+[**6. Principle of Proximity**](https://github.com/bao-nguyen3-ts/clean_code/tree/main/6.Classes#6-principle-of-proximity)
 
-[**7. Outline Rule**](https://github.com/huubao2309/clean_code/tree/main/6.Classes#7-outline-rule)
+[**7. Outline Rule**](https://github.com/bao-nguyen3-ts/clean_code/tree/main/6.Classes#7-outline-rule)
 
 
 ## 1. Introduce

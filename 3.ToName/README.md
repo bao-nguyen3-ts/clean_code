@@ -2,21 +2,21 @@
 
 
 # Table of contents
-[**1. Naming For Classes**](https://github.com/huubao2309/clean_code/tree/main/3.ToName#1-naming-for-classes)
+[**1. Naming For Classes**](https://github.com/bao-nguyen3-ts/clean_code/tree/main/3.ToName#1-naming-for-classes)
 
-[**2. Naming For Methods**](https://github.com/huubao2309/clean_code/tree/main/3.ToName#2-naming-for-methods)
+[**2. Naming For Methods**](https://github.com/bao-nguyen3-ts/clean_code/tree/main/3.ToName#2-naming-for-methods)
 
-[**3. Rubber Ducking**](https://github.com/huubao2309/clean_code/tree/main/3.ToName#3-rubber-ducking)
+[**3. Rubber Ducking**](https://github.com/bao-nguyen3-ts/clean_code/tree/main/3.ToName#3-rubber-ducking)
 
-[**4. Warning Signs**](https://github.com/huubao2309/clean_code/tree/main/3.ToName#4-warning-signs)
+[**4. Warning Signs**](https://github.com/bao-nguyen3-ts/clean_code/tree/main/3.ToName#4-warning-signs)
 
-[**5. Side Effects**](https://github.com/huubao2309/clean_code/tree/main/3.ToName#5-side-effects)
+[**5. Side Effects**](https://github.com/bao-nguyen3-ts/clean_code/tree/main/3.ToName#5-side-effects)
 
-[**6. Abbreviations**](https://github.com/huubao2309/clean_code/tree/main/3.ToName#6-abbreviations)
+[**6. Abbreviations**](https://github.com/bao-nguyen3-ts/clean_code/tree/main/3.ToName#6-abbreviations)
 
-[**7. Naming variables: Booleans**](https://github.com/huubao2309/clean_code/tree/main/3.ToName#7-naming-variables-booleans)
+[**7. Naming variables: Booleans**](https://github.com/bao-nguyen3-ts/clean_code/tree/main/3.ToName#7-naming-variables-booleans)
 
-[**8. Naming variables: Be symmetrical**](https://github.com/huubao2309/clean_code/tree/main/3.ToName#8-naming-variables-be-symmetrical)
+[**8. Naming variables: Be symmetrical**](https://github.com/bao-nguyen3-ts/clean_code/tree/main/3.ToName#8-naming-variables-be-symmetrical)
 
 
 **<ins>Example</ins>**

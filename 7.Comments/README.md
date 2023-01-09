@@ -2,27 +2,27 @@
 
 
 # Table of contents
-[**1. Introduce**](https://github.com/huubao2309/clean_code/tree/main/7.Comments#1-introduce)
+[**1. Introduce**](https://github.com/bao-nguyen3-ts/clean_code/tree/main/7.Comments#1-introduce)
 
-[**2. A Necessity and a Crutch**](https://github.com/huubao2309/clean_code/tree/main/7.Comments#2-a-necessity-and-a-crutch)
+[**2. A Necessity and a Crutch**](https://github.com/bao-nguyen3-ts/clean_code/tree/main/7.Comments#2-a-necessity-and-a-crutch)
 
-[**3. Redundant Comments**](https://github.com/huubao2309/clean_code/tree/main/7.Comments#3-redundant-comments)
+[**3. Redundant Comments**](https://github.com/bao-nguyen3-ts/clean_code/tree/main/7.Comments#3-redundant-comments)
 
-[**4. Intent Comments**](https://github.com/huubao2309/clean_code/tree/main/7.Comments#4-intent-comments)
+[**4. Intent Comments**](https://github.com/bao-nguyen3-ts/clean_code/tree/main/7.Comments#4-intent-comments)
 
-[**5. Apology Comments**](https://github.com/huubao2309/clean_code/tree/main/7.Comments#5-apology-comments)
+[**5. Apology Comments**](https://github.com/bao-nguyen3-ts/clean_code/tree/main/7.Comments#5-apology-comments)
 
-[**6. Warning Comments**](https://github.com/huubao2309/clean_code/tree/main/7.Comments#6-warning-comments)
+[**6. Warning Comments**](https://github.com/bao-nguyen3-ts/clean_code/tree/main/7.Comments#6-warning-comments)
 
-[**7. Zombie Code**](https://github.com/huubao2309/clean_code/tree/main/7.Comments#7-zombie-code)
+[**7. Zombie Code**](https://github.com/bao-nguyen3-ts/clean_code/tree/main/7.Comments#7-zombie-code)
 
-[**8. Dividers and Brace Trackers**](https://github.com/huubao2309/clean_code/tree/main/7.Comments#8-dividers-and-brace-trackers)
+[**8. Dividers and Brace Trackers**](https://github.com/bao-nguyen3-ts/clean_code/tree/main/7.Comments#8-dividers-and-brace-trackers)
 
-[**9. Bloated Header**](https://github.com/huubao2309/clean_code/tree/main/7.Comments#9-bloated-header)
+[**9. Bloated Header**](https://github.com/bao-nguyen3-ts/clean_code/tree/main/7.Comments#9-bloated-header)
 
-[**10. Defect Log**](https://github.com/huubao2309/clean_code/tree/main/7.Comments#10-defect-log)
+[**10. Defect Log**](https://github.com/bao-nguyen3-ts/clean_code/tree/main/7.Comments#10-defect-log)
 
-[**11. Clean Comments**](https://github.com/huubao2309/clean_code/tree/main/7.Comments#11-clean-comments)
+[**11. Clean Comments**](https://github.com/bao-nguyen3-ts/clean_code/tree/main/7.Comments#11-clean-comments)
 
 
 ## 1. Introduce

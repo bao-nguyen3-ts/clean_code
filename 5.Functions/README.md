@@ -2,31 +2,31 @@
 
 
 # Table of contents
-[**1. Introduce**](https://github.com/huubao2309/clean_code/tree/main/5.Functions#1-introduce)
+[**1. Introduce**](https://github.com/bao-nguyen3-ts/clean_code/tree/main/5.Functions#1-introduce)
 
-[**2. When to Create A Function**](https://github.com/huubao2309/clean_code/tree/main/5.Functions#2-when-to-create-a-function)
+[**2. When to Create A Function**](https://github.com/bao-nguyen3-ts/clean_code/tree/main/5.Functions#2-when-to-create-a-function)
 
-[**3. Avoid Duplication**](https://github.com/huubao2309/clean_code/tree/main/5.Functions#3-avoid-duplication)
+[**3. Avoid Duplication**](https://github.com/bao-nguyen3-ts/clean_code/tree/main/5.Functions#3-avoid-duplication)
 
-[**4. Excessive Indentation Overview**](https://github.com/huubao2309/clean_code/tree/main/5.Functions#4-excessive-indentation-overview)
+[**4. Excessive Indentation Overview**](https://github.com/bao-nguyen3-ts/clean_code/tree/main/5.Functions#4-excessive-indentation-overview)
 
-[**5. Extract Method**](https://github.com/huubao2309/clean_code/tree/main/5.Functions#5-extract-method)
+[**5. Extract Method**](https://github.com/bao-nguyen3-ts/clean_code/tree/main/5.Functions#5-extract-method)
 
-[**6. Return Early**](https://github.com/huubao2309/clean_code/tree/main/5.Functions#6-return-early)
+[**6. Return Early**](https://github.com/bao-nguyen3-ts/clean_code/tree/main/5.Functions#6-return-early)
 
-[**7. Fail Fast**](https://github.com/huubao2309/clean_code/tree/main/5.Functions#7-fail-fast)
+[**7. Fail Fast**](https://github.com/bao-nguyen3-ts/clean_code/tree/main/5.Functions#7-fail-fast)
 
-[**8. Convey Intent**](https://github.com/huubao2309/clean_code/tree/main/5.Functions#8-convey-intent)
+[**8. Convey Intent**](https://github.com/bao-nguyen3-ts/clean_code/tree/main/5.Functions#8-convey-intent)
 
-[**9. Do One Thing**](https://github.com/huubao2309/clean_code/tree/main/5.Functions#9-do-one-thing)
+[**9. Do One Thing**](https://github.com/bao-nguyen3-ts/clean_code/tree/main/5.Functions#9-do-one-thing)
 
-[**10. Mayfly Variables**](https://github.com/huubao2309/clean_code/tree/main/5.Functions#10-mayfly-variables)
+[**10. Mayfly Variables**](https://github.com/bao-nguyen3-ts/clean_code/tree/main/5.Functions#10-mayfly-variables)
 
-[**11. How many parameters?**](https://github.com/huubao2309/clean_code/tree/main/5.Functions#11-how-many-parameters)
+[**11. How many parameters?**](https://github.com/bao-nguyen3-ts/clean_code/tree/main/5.Functions#11-how-many-parameters)
 
-[**12. What's Too Long?**](https://github.com/huubao2309/clean_code/tree/main/5.Functions#12-whats-too-long)
+[**12. What's Too Long?**](https://github.com/bao-nguyen3-ts/clean_code/tree/main/5.Functions#12-whats-too-long)
 
-[**13. Exceptions**](https://github.com/huubao2309/clean_code/tree/main/5.Functions#13-exceptions)
+[**13. Exceptions**](https://github.com/bao-nguyen3-ts/clean_code/tree/main/5.Functions#13-exceptions)
 
 
 ## 1. Introduce

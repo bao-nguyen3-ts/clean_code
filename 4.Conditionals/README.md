@@ -2,27 +2,27 @@
 
 
 # Table of contents
-[**1. Introduction**](https://github.com/huubao2309/clean_code/tree/main/4.Conditionals#1-introduction)
+[**1. Introduction**](https://github.com/bao-nguyen3-ts/clean_code/tree/main/4.Conditionals#1-introduction)
 
-[**2. Boolean Comparisons**](https://github.com/huubao2309/clean_code/tree/main/4.Conditionals#2-boolean-comparisons)
+[**2. Boolean Comparisons**](https://github.com/bao-nguyen3-ts/clean_code/tree/main/4.Conditionals#2-boolean-comparisons)
 
-[**3. Boolean Assignments**](https://github.com/huubao2309/clean_code/tree/main/4.Conditionals#3-boolean-assignments)
+[**3. Boolean Assignments**](https://github.com/bao-nguyen3-ts/clean_code/tree/main/4.Conditionals#3-boolean-assignments)
 
-[**4. Positive Conditionals**](https://github.com/huubao2309/clean_code/tree/main/4.Conditionals#4-positive-conditionals)
+[**4. Positive Conditionals**](https://github.com/bao-nguyen3-ts/clean_code/tree/main/4.Conditionals#4-positive-conditionals)
 
-[**5. Ternary Elegance**](https://github.com/huubao2309/clean_code/tree/main/4.Conditionals#5-ternary-elegance)
+[**5. Ternary Elegance**](https://github.com/bao-nguyen3-ts/clean_code/tree/main/4.Conditionals#5-ternary-elegance)
 
-[**6. Stringly Typed**](https://github.com/huubao2309/clean_code/tree/main/4.Conditionals#6-stringly-typed)
+[**6. Stringly Typed**](https://github.com/bao-nguyen3-ts/clean_code/tree/main/4.Conditionals#6-stringly-typed)
 
-[**7. Magic Numbers**](https://github.com/huubao2309/clean_code/tree/main/4.Conditionals#7-magic-numbers)
+[**7. Magic Numbers**](https://github.com/bao-nguyen3-ts/clean_code/tree/main/4.Conditionals#7-magic-numbers)
 
-[**8. Complex Conditionals**](https://github.com/huubao2309/clean_code/tree/main/4.Conditionals#8-complex-conditionals)
+[**8. Complex Conditionals**](https://github.com/bao-nguyen3-ts/clean_code/tree/main/4.Conditionals#8-complex-conditionals)
 
-[**9. Favor Polymorphism over Enums for Behavior**](https://github.com/huubao2309/clean_code/tree/main/4.Conditionals#9-favor-polymorphism-over-enums-for-behavior)
+[**9. Favor Polymorphism over Enums for Behavior**](https://github.com/bao-nguyen3-ts/clean_code/tree/main/4.Conditionals#9-favor-polymorphism-over-enums-for-behavior)
 
-[**10. Be declarative if possible**](https://github.com/huubao2309/clean_code/tree/main/4.Conditionals#10-be-declarative-if-possible)
+[**10. Be declarative if possible**](https://github.com/bao-nguyen3-ts/clean_code/tree/main/4.Conditionals#10-be-declarative-if-possible)
 
-[**11. Table Driven Methods**](https://github.com/huubao2309/clean_code/tree/main/4.Conditionals#11-table-driven-methods)
+[**11. Table Driven Methods**](https://github.com/bao-nguyen3-ts/clean_code/tree/main/4.Conditionals#11-table-driven-methods)
 
 ## 1. Introduction
 

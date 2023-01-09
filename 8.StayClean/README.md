@@ -2,15 +2,15 @@
 
 
 # Table of contents
-[**1. When to Refactor to Clean Code**](https://github.com/huubao2309/clean_code/tree/main/8.StayClean#1-when-to-refactor-to-clean-code)
+[**1. When to Refactor to Clean Code**](https://github.com/bao-nguyen3-ts/clean_code/tree/main/8.StayClean#1-when-to-refactor-to-clean-code)
 
-[**2. Accept No Broken Windows**](https://github.com/huubao2309/clean_code/tree/main/8.StayClean#2-accept-no-broken-windows)
+[**2. Accept No Broken Windows**](https://github.com/bao-nguyen3-ts/clean_code/tree/main/8.StayClean#2-accept-no-broken-windows)
 
-[**3. Code Reviews & Pair Programming**](https://github.com/huubao2309/clean_code/tree/main/8.StayClean#3-code-reviews--pair-programming)
+[**3. Code Reviews & Pair Programming**](https://github.com/bao-nguyen3-ts/clean_code/tree/main/8.StayClean#3-code-reviews--pair-programming)
 
-[**4. Boy Scout Rule**](https://github.com/huubao2309/clean_code/tree/main/8.StayClean#4-boy-scout-rule)
+[**4. Boy Scout Rule**](https://github.com/bao-nguyen3-ts/clean_code/tree/main/8.StayClean#4-boy-scout-rule)
 
-[**5. Summary**](https://github.com/huubao2309/clean_code/tree/main/8.StayClean#5-summary)
+[**5. Summary**](https://github.com/bao-nguyen3-ts/clean_code/tree/main/8.StayClean#5-summary)
 
 
 ## 1. When to Refactor to Clean Code

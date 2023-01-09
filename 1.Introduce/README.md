@@ -2,9 +2,9 @@
 
 
 # Table of contents
-[**1. Famous quote**](https://github.com/huubao2309/clean_code/tree/main/1.Introduce#1-famous-quote)
+[**1. Famous quote**](https://github.com/bao-nguyen3-ts/clean_code/tree/main/1.Introduce#1-famous-quote)
 
-[**2. Why should you care?**](https://github.com/huubao2309/clean_code/tree/main/1.Introduce#2-why-should-you-care)
+[**2. Why should you care?**](https://github.com/bao-nguyen3-ts/clean_code/tree/main/1.Introduce#2-why-should-you-care)
 
 ## 1. Famous quote
 
